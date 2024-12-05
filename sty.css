@@ -1,0 +1,35 @@
+.msd{
+   border: 5px dashed red;
+   text-align: center;
+   width: 300px;
+   height: 400px;
+   margin-left:600px;
+   box-shadow: 10px 10px rgb(200, 176, 176);
+   margin-top: 150px;
+}
+h1:hover{
+    color: rgb(32, 243, 232);
+}
+button{
+    border-radius: 30px;
+    width: 100px;
+   height: 30px;
+   background-color: cyan;
+   font-family: 'Times New Roman', Times, serif;
+  margin-top: 300 px;
+}
+
+img{
+   border-radius: 30px; 
+   height:100px ;
+   width:100px ;
+
+}
+img:hover{
+    cursor: pointer;
+    
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow; 
+}
